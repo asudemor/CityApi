@@ -8,6 +8,6 @@ namespace CityApi.Core
         Marmara = 1,
         Anadolu = 2,
         Ege = 3,
-        Karadeniz = 4
+        Karadeniz = 4,
     }
 }
